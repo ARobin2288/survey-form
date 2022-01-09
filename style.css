@@ -1,0 +1,26 @@
+body {
+    margin: 0 auto;
+    background-color: #3a668c;
+    text-align: center;
+}
+
+header {
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}
+
+header h1 {
+    font-size: 58px;
+  color: #fad049;
+}
+
+header p {
+    font-size: 18px;
+  line-height: 28px;
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 82px;
+}
